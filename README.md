@@ -19,4 +19,12 @@
   * **Responsive Website Design Tester – https://responsivedesignchecker.com/**
   * **Hemingway Editor - https://hemingwayapp.com/**
   * **Pro Free Host - https://profreehost.com/**
-  * **Wordpress within Pro Free Host and Google Search Console**
+  * **WordPress within Pro Free Host and Google Search Console**
+
+# Tasks
+  * **Selection of a company and a short description of the company**
+  * **Preparation of website audit report by analyzing the design, user experience, responsiveness, and SEO Metrics**
+  * **SEO: Page Speed, Mobile-friendliness, Meta tags**
+  * **Content: Quality, relevance, engagement**
+  * **Strategies to improve digital marketing**
+  * **Site landing page creation**
