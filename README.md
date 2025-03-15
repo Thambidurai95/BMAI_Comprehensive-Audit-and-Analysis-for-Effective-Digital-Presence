@@ -5,4 +5,10 @@
 
 # Newly Created Site Landing Page URL: http://mmsservice.liveblog365.com/
 
-* **MMS Solutions is a trusted smartphone repair and service centre with 6 outlets across Chennai, serving customers for over 10 years. We specialize in LG, OnePlus, Pixel, iQOO, and Nothing smartphones, offering fast, reliable, and affordable solutions.**
+* **MMS Solutions is a trusted smartphone repair and service center with 6 outlets across Chennai, serving customers for over 10 years. We specialize in LG, OnePlus, Pixel, iQOO, and Nothing smartphones, offering fast, reliable, and affordable solutions.**
+
+# Audited Webpages from the original site
+
+**Home – https://www.mmsservice.in/**
+**Brands/LG Smartphones – https://www.mmsservice.in/lg-smartphone.php**
+**Services/LG Service Center - https://www.mmsservice.in/lg-mobile-service-center.php**
