@@ -12,3 +12,11 @@
   * **Home – https://www.mmsservice.in/**
   * **Brands/LG Smartphones – https://www.mmsservice.in/lg-smartphone.php**
   * **Services/LG Service Center - https://www.mmsservice.in/lg-mobile-service-center.php**
+
+# Tool used
+
+  * **PageSpeed Insights – https://pagespeed.web.dev/**
+  * **Responsive Website Design Tester – https://responsivedesignchecker.com/**
+  * **Hemingway Editor - https://hemingwayapp.com/**
+  * **Pro Free Host - https://profreehost.com/**
+  * **Wordpress within Pro Free Host and Google Search Console**
