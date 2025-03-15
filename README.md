@@ -13,7 +13,7 @@
   * **Brands/LG Smartphones – https://www.mmsservice.in/lg-smartphone.php**
   * **Services/LG Service Center - https://www.mmsservice.in/lg-mobile-service-center.php**
 
-# Tool used
+# Tools
 
   * **PageSpeed Insights – https://pagespeed.web.dev/**
   * **Responsive Website Design Tester – https://responsivedesignchecker.com/**
